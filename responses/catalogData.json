@@ -1,12 +1,42 @@
 [
   {
-    "id_product": 123,
-    "product_name": "Ноутбук",
-    "price": 45600
-  },
-  {
-    "id_product": 456,
-    "product_name": "Мышка",
-    "price": 1000
-  }
+    "title_p": "Notebook",
+    "price_p": 2000,
+    "sign_p": "Ноутбук-утюг, 12 ядер, 200вт, пассивное охлаждение",
+    "img_p": "image/notebook.png",
+    "count_p": 0,
+    "link_p": "#"
+},
+{
+    "title_p": "PC",
+    "price_p": 4000,
+    "sign_p": "Бюджетный компьютер",
+    "img_p": "image/pc.png",
+    "count_p": 0,
+    "link_p": "#"
+},
+{
+    "title_p": "Mouse",
+    "price_p": 10,
+    "sign_p": "Мышь для работы в рукавицах",
+    "img_p": "image/mouse.png",
+    "count_p": 0,
+    "link_p": "#"
+},
+{
+    "title_p": "Keyboard",
+    "price_p": 20,
+    "sign_p": "Пылевлагозащитная клавиатура",
+    "img_p": "image/keyboard.png",
+    "count_p": 0,
+    "link_p": "#"
+},
+{
+    "title_p": "Display",
+    "price_p": 1000,
+    "sign_p": "4k монитор, отлично подходит для учебы",
+    "img_p": "image/display.png",
+    "count_p": 0,
+    "link_p": "#"
+}
 ]
